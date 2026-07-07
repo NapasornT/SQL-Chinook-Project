@@ -56,7 +56,7 @@ The project includes visualizations of
 - Top Selling Tracks
 - Revenue by Country
 - Revenue by Employee
-
-## Project URL
+ 
+ ## Project URL
 
 https://roadmap.sh/projects/querying-data-with-sql
