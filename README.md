@@ -58,5 +58,4 @@ The project includes visualizations of
 - Revenue by Employee
  
  ## Project URL
-
-https://roadmap.sh/projects/querying-data-with-sql
+ https://roadmap.sh/projects/querying-sql-python
